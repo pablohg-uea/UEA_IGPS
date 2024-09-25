@@ -32,7 +32,7 @@ Aquí encontrarás materiales adicionales y lecturas recomendadas para profundiz
 
 En esta sección se incluirán las instrucciones para las tareas y los proyectos asignados a lo largo del curso.
 
-- **Ejercicio 01**: [Linea del tiempio](https://github.com/pablohg-uea/01_timeline_24-25)
+- **Ejercicio 01**: [Linea del tiempo](https://github.com/pablohg-uea/01_timeline_24-25)
 
 ## Contribuciones
 
