@@ -32,9 +32,7 @@ Aquí encontrarás materiales adicionales y lecturas recomendadas para profundiz
 
 En esta sección se incluirán las instrucciones para las tareas y los proyectos asignados a lo largo del curso.
 
-- **Tarea 1**: [Descripción](enlace_a_tarea_1.md)
-- **Tarea 2**: [Descripción](enlace_a_tarea_2.md)
-- **Proyecto Final**: [Descripción](enlace_a_proyecto_final.md)
+- **Ejercicio 01**: [Linea del tiempio](https://github.com/pablohg-uea/01_timeline_24-25)
 
 ## Contribuciones
 
@@ -46,4 +44,4 @@ Si deseas contribuir al repositorio, por favor sigue las siguientes pautas:
 
 ## Contacto
 
-Para cualquier consulta o duda, puedes contactarme a través del correo: [profesor@universidad.com](mailto:profesor@universidad.com)
+Para cualquier consulta o duda, puedes contactarme a través del correo: [pablo.herrero@uneatlantico.es](mailto:profesor@universidad.com)
