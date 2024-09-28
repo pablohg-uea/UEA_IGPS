@@ -18,7 +18,16 @@ Esta asignatura tiene como objetivo introducir los principios y prácticas funda
 
 ## Estructura del Curso
 
-* En proceso
+* 00 - IGPS Introducción
+* 01 - IGPS Software e Ingeniería (1)
+* 02 - IGPS Software e Ingeniería (2)
+* 03 - IGPS Proceso del Software  (1)
+* 04 - IGPS Proceso del Software  (2)
+* 05 - IGPS GIT (1)
+* 06 - IGPS GIT (2)
+* 07 - IGPS SCRUM
+* 08 - IGPS Innovación
+* 09 - IGPS Priorizacion
 
 ## Recursos
 
